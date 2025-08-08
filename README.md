@@ -18,7 +18,8 @@ This is a repository contains automated test cases for Magento's Sign-Up and Sig
 
 ## Screenshots
 
-![Screenshot_SignUpSignInFlow_Pass.png](../../Downloads/Screenshot_SignUpSignInFlow_Pass.png)
+<img width="959" height="500" alt="Screenshot_SignUpSignInFlow_Pass" src="https://github.com/user-attachments/assets/a38ef0b9-c5dc-425c-ac76-44826f495eca" />
+
 
 ## Documentation
 
